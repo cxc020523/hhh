@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O2 -g -DNDEBUG  -shared -Wl,-soname,libserial_port.so -o /home/cxc/serial_ws/devel/lib/libserial_port.so CMakeFiles/serial_port.dir/src/my_serial_port.cpp.o 

@@ -1,0 +1,8 @@
+prefix=/home/cxc/serial_ws/devel
+
+Name: stm32_serial
+Description: Description of stm32_serial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy serial std_msgs

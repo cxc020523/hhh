@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O2 -g -DNDEBUG  -shared -Wl,-soname,libserial.so -o /home/cxc/serial_ws/devel/lib/libserial.so CMakeFiles/serial.dir/src/boost_serial.cpp.o CMakeFiles/serial.dir/src/serial_port.cpp.o 
